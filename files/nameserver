@@ -1,5 +1,5 @@
 #!/bin/sh
-REPOS="https://tekirovpn.my.id/"
+REPOS="https://raw.githubusercontent.com/Ikelirawangamer2/VIP/main/"
 ns_domain_cloudflare() {
 	DOMAIN="vip-servers.live"
 	DOMAIN_PATH=$(cat /etc/xray/domain)
